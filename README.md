@@ -1,31 +1,44 @@
-### Hi there 👋
+# Hi there, I'm William Martins 👋
 
-## I'm William Martins!
+## 🚀 About Me
 
-- 🔭 I'm working on Senior System support and customization.
-<!-- 
-<div align="center">
-  <a href="https://github.com/willmartinsmg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willmartinsmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsmg&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="will-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/willmartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/willmartinsmg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:william.martins@me.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/willmartinsmg/willmartinsmg/blob/output/github-contribution-grid-snake.svg)
- 
-</div> -->
+I'm a passionate software developer with a strong interest in open-source projects. I enjoy building innovative solutions and contributing to the tech community. Here are a few things about me:
+
+- 💻 I love coding in JavaScript and Typescript.
+- 🌱 Currently learning more about Neovim and DevOps.
+- 🔭 Working on personal projects in my free time.
+- ⚡ Fun fact: I like playing Zelda and football with friends.
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Languages**: JavaScript, Typescript, LSP (Linguagem Senior de Programação)
+- **Frameworks**: React, Node.js, NestJS, React Native
+- **Databases**: Oracle, MySQL, PostgreSQL, MongoDB
+- **Tools**: Docker, Git, Neovim
+
+## 📈 GitHub Stats
+
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willmartinsmg&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- LinkedIn: [William Martins](https://www.linkedin.com/in/willmartins/)
+- Twitter: [@willmartinsmg](https://twitter.com/willmartinsmg)
+- Email: william.martins@me.com
+
+## 🔗 Links
+
+<!-- - [Portfolio](https://willmartinsmg.github.io) -->
+- [Blog](https://willmartinsmg.github.io)
+
+<!--
+## 🤝 Contributions
+
+I love collaborating on open-source projects! Feel free to reach out if you have an interesting project or idea.
+-->
+---
+
+⭐️ From [willmartinsmg](https://github.com/willmartinsmg)
 
