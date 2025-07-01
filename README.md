@@ -1,44 +1,23 @@
-# Hi there, I'm William Martins 👋
+# Olá, eu sou William Martins 👋
 
-## 🚀 About Me
+Sou desenvolvedor de software apaixonado por JavaScript e TypeScript, com grande interesse em projetos open-source. Gosto de criar soluções práticas e inovadoras.
 
-I'm a passionate software developer with a strong interest in open-source projects. I enjoy building innovative solutions and contributing to the tech community. Here are a few things about me:
+## 🚀 Tecnologias
 
-- 💻 I love coding in JavaScript and Typescript.
-- 🌱 Currently learning more about Neovim and DevOps.
-- 🔭 Working on personal projects in my free time.
-- ⚡ Fun fact: I like playing Zelda and football with friends.
-
-## 🛠️ Technologies & Tools
-
-Here are some of the technologies and tools I work with:
-
-- **Languages**: JavaScript, Typescript, LSP (Linguagem Senior de Programação)
+- **Linguagens**: JavaScript, TypeScript
 - **Frameworks**: React, Node.js, NestJS, React Native
-- **Databases**: Oracle, MySQL, PostgreSQL, MongoDB
-- **Tools**: Docker, Git, Neovim
+- **Bancos de Dados**: Oracle, MySQL, PostgreSQL, MongoDB
+- **Ferramentas**: Docker, Git, Neovim
 
-## 📈 GitHub Stats
+## ⚡ Curiosidades
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willmartinsmg&show_icons=true&theme=radical)
+- Sou um marido apaixonado e tenho 3 filhos q amo muito.
+- Adoro jogar Zelda e futebol com os amigos no meu tempo livre.
 
-## 📫 How to Reach Me
+## 📫 Contato
 
-- LinkedIn: [William Martins](https://www.linkedin.com/in/willmartins/)
-- Twitter: [@willmartinsmg](https://twitter.com/willmartinsmg)
-- Email: william.martins@me.com
-
-## 🔗 Links
-
-<!-- - [Portfolio](https://willmartinsmg.github.io) -->
+- [LinkedIn](https://www.linkedin.com/in/willmartins/)
+- [Twitter](https://twitter.com/willmartinsmg)
+- [Email](mailto:william.martins@me.com)
 - [Blog](https://willmartinsmg.github.io)
-
-<!--
-## 🤝 Contributions
-
-I love collaborating on open-source projects! Feel free to reach out if you have an interesting project or idea.
--->
----
-
-⭐️ From [willmartinsmg](https://github.com/willmartinsmg)
 
