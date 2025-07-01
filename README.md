@@ -4,7 +4,7 @@ Sou desenvolvedor de software apaixonado por JavaScript e TypeScript, com grande
 
 ## 🚀 Tecnologias
 
-- **Linguagens**: JavaScript, TypeScript
+- **Linguagens**: JavaScript, TypeScript, LSP (Linguagem Senior Programação), PHP
 - **Frameworks**: React, Node.js, NestJS, React Native
 - **Bancos de Dados**: Oracle, MySQL, PostgreSQL, MongoDB
 - **Ferramentas**: Docker, Git, Neovim
