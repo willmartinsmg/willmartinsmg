@@ -1,23 +1,41 @@
-# Olá, eu sou William Martins 👋
+# 👋 William Martins
 
-Sou desenvolvedor de software apaixonado por JavaScript e TypeScript, com grande interesse em projetos open-source. Gosto de criar soluções práticas e inovadoras.
+Founder & Software Engineer building real-world products with a focus on scalability, performance, and business impact.
 
-## 🚀 Tecnologias
+I design and ship full-stack applications used by real users, turning ideas into reliable and monetizable products. My work blends engineering, product thinking, and pragmatism — prioritizing what actually delivers value.
 
-- **Linguagens**: JavaScript, TypeScript, LSP (Linguagem Senior Programação), PHP
-- **Frameworks**: React, Node.js, NestJS, React Native
-- **Bancos de Dados**: Oracle, MySQL, PostgreSQL, MongoDB
-- **Ferramentas**: Docker, Git, Neovim
+## 🚀 What I Build
 
-## ⚡ Curiosidades
+- SaaS platforms and scalable web applications  
+- Mobile apps with real user adoption  
+- Backend systems and APIs designed for growth  
+- End-to-end products — from idea to production  
 
-- Sou um marido apaixonado e tenho 3 filhos q amo muito.
-- Adoro jogar Zelda e futebol com os amigos no meu tempo livre.
+## 🛠 Tech Stack
 
-## 📫 Contato
+- **Languages**: JavaScript, TypeScript, LSP, PHP  
+- **Frontend**: React  
+- **Backend**: Node.js, NestJS  
+- **Mobile**: React Native  
+- **Databases**: PostgreSQL, Oracle, MySQL, MongoDB  
+- **Infra**: Docker, VPS, cloud-based deployments  
+- **Tools**: Git, Neovim  
 
-- [LinkedIn](https://www.linkedin.com/in/willmartins/)
-- [Twitter](https://twitter.com/willmartinsmg)
-- [Email](mailto:william.martins@me.com)
-- [Blog](https://willmartinsmg.github.io)
+## 🧠 Builder Mindset
 
+- Focus on shipping, not overengineering  
+- Build fast, iterate faster  
+- Solve real problems with simple solutions  
+- Think in product, not just code  
+- Optimize for growth and usability  
+
+## 📈 Current Focus
+
+Building and scaling products that can operate independently, generate revenue, and reach real users without relying on heavy marketing.
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/willmartins/  
+- Twitter: https://twitter.com/willmartinsmg  
+- Email: william.martins@me.com  
+- Blog: https://willmartinsmg.github.io  
